@@ -1,4 +1,4 @@
-/*product {
+product {
   display:flex;
   min-height:200px;
 }
@@ -18,7 +18,8 @@ product .padded{
 }
 
 product h1{
+  width:200px;
   margin: 0;
   font-size: 2em;
   font-weight: bolder;
-}*/
+}
